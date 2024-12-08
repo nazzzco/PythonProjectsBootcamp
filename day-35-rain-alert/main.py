@@ -1,0 +1,4 @@
+import requests
+api_key = "856335270a6e796c4ef2614d09db94a3"
+MY_LAT = 42.697708
+MY_LONG = 23.321867
